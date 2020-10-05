@@ -1,0 +1,41 @@
+ID,KO,Definition
+ica:Intca_0159,K01007,"pyruvate, water dikinase [EC:2.7.9.2] | (GenBank) phosphoenolpyruvate synthase"
+ica:Intca_0246,K21071,ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase [EC:2.7.1.11 2.
+ica:Intca_0248,K00161,pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1] | (GenBank) pyruvate dehydroge
+ica:Intca_0249,K00162,pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1] | (GenBank) Transketolase centr
+ica:Intca_0250,K00627,pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] | (Gen
+ica:Intca_0294,K00138,aldehyde dehydrogenase [EC:1.2.1.-] | (GenBank) Aldehyde Dehydrogenase
+ica:Intca_0310,K01596,phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32] | (GenBank) Phosphoenolpyruvate carboxy
+ica:Intca_0366,K01895,acetyl-CoA synthetase [EC:6.2.1.1] | (GenBank) AMP-dependent synthetase and ligase
+ica:Intca_0419,K01222,6-phospho-beta-glucosidase [EC:3.2.1.86] | (GenBank) glycoside hydrolase family 4
+ica:Intca_0516,K01895,acetyl-CoA synthetase [EC:6.2.1.1] | (GenBank) acetyl-coenzyme A synthetase
+ica:Intca_0708,K00175,2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11] | (GenB
+ica:Intca_0709,K00174,2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11] | (Gen
+ica:Intca_0736,K01785,aldose 1-epimerase [EC:5.1.3.3] | (GenBank) Aldose 1-epimerase
+ica:Intca_0899,K00001,alcohol dehydrogenase [EC:1.1.1.1] | (GenBank) Alcohol dehydrogenase zinc-binding domain prot
+ica:Intca_0932,K01689,enolase [EC:4.2.1.11] | (GenBank) enolase
+ica:Intca_0951,K00845,glucokinase [EC:2.7.1.2] | (GenBank) ROK family protein
+ica:Intca_1221,K00128,aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (GenBank) aldehyde dehydrogenase (acceptor)
+ica:Intca_1646,K00873,pyruvate kinase [EC:2.7.1.40] | (GenBank) pyruvate kinase
+ica:Intca_1684,K00134,glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12] | (GenBank) glyceraldehyde-3-phosphate
+ica:Intca_1685,K00927,phosphoglycerate kinase [EC:2.7.2.3] | (GenBank) phosphoglycerate kinase
+ica:Intca_1686,K01803,triosephosphate isomerase (TIM) [EC:5.3.1.1] | (GenBank) triosephosphate isomerase
+ica:Intca_1692,K01810,glucose-6-phosphate isomerase [EC:5.3.1.9] | (GenBank) glucose-6-phosphate isomerase
+ica:Intca_1887,K13953,"alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1] | (GenBank) zinc-binding alcohol dehy"
+ica:Intca_1972,K00845,glucokinase [EC:2.7.1.2] | (GenBank) glucokinase
+ica:Intca_2017,K00382,dihydrolipoamide dehydrogenase [EC:1.8.1.4] | (GenBank) dihydrolipoamide dehydrogenase
+ica:Intca_2037,K00886,polyphosphate glucokinase [EC:2.7.1.63] | (GenBank) Polyphosphate glucokinase
+ica:Intca_2059,K00163,pyruvate dehydrogenase E1 component [EC:1.2.4.1] | (GenBank) 2-oxo-acid dehydrogenase E1 subu
+ica:Intca_2146,K00128,aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (GenBank) Aldehyde Dehydrogenase
+ica:Intca_2203,K00382,dihydrolipoamide dehydrogenase [EC:1.8.1.4] | (GenBank) dihydrolipoamide dehydrogenase
+ica:Intca_2373,K00134,glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12] | (GenBank) glyceraldehyde-3-phosphate
+ica:Intca_2403,K01835,"phosphoglucomutase [EC:5.4.2.2] | (GenBank) phosphoglucomutase, alpha-D-glucose phosphate-spe"
+ica:Intca_2512,K15916,glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8] | (GenBank) Bifunctional glucose-6
+ica:Intca_2693,K02446,"fructose-1,6-bisphosphatase II [EC:3.1.3.11] | (GenBank) fructose-1,6-bisphosphatase, class I"
+ica:Intca_2932,K01834,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] | (GenBank) phosphogl"
+ica:Intca_3052,K13953,"alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1] | (GenBank) Alcohol dehydrogenase Gro"
+ica:Intca_3070,K03737,pyruvate-ferredoxin/flavodoxin oxidoreductase [EC:1.2.7.1 1.2.7.-] | (GenBank) pyruvate ferre
+ica:Intca_3136,K00627,pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] | (Gen
+ica:Intca_3265,K01624,"fructose-bisphosphate aldolase, class II [EC:4.1.2.13] | (GenBank) fructose-bisphosphate aldo"
+ica:Intca_3315,K00016,L-lactate dehydrogenase [EC:1.1.1.27] | (GenBank) malate dehydrogenase (NAD)
+ica:Intca_3330,K01006,"pyruvate, orthophosphate dikinase [EC:2.7.9.1] | (GenBank) pyruvate phosphate dikinase"

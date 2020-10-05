@@ -1,0 +1,16 @@
+﻿ID,KO,Description,Path
+ica:Intca_3196,K01754,threonine dehydratase [EC:4.3.1.19] | (GenBank) L-threonine ammonia-lyase,0 step iso
+ica:Intca_3574,K01754,"threonine dehydratase [EC:4.3.1.19] | (GenBank) threonine dehydratase, biosynthetic",0 step iso
+ica:Intca_2362,K01653,"acetolactate synthase I/III small subunit [EC:2.2.1.6] | (GenBank) acetolactate synthase, sma","1st step iso, val"
+ica:Intca_2363,K01652,"acetolactate synthase I/II/III large subunit [EC:2.2.1.6] | (GenBank) acetolactate synthase,","1st step iso, val"
+ica:Intca_2043,K01652,acetolactate synthase I/II/III large subunit [EC:2.2.1.6] | (GenBank) thiamine pyrophosphate,"1st step iso, val"
+ica:Intca_2361,K00053,ketol-acid reductoisomerase [EC:1.1.1.86] | (GenBank) ketol-acid reductoisomerase,"2nd step iso, val"
+ica:Intca_2365,K01687,dihydroxy-acid dehydratase [EC:4.2.1.9] | (GenBank) dihydroxyacid dehydratase,"3rd step iso,val"
+ica:Intca_2355,K00826,branched-chain amino acid aminotransferase [EC:2.6.1.42] | (GenBank) branched chain amino aci,"4th step iso,val"
+ica:Intca_1895,K00826,branched-chain amino acid aminotransferase [EC:2.6.1.42] | (GenBank) aminotransferase class I,"4th step iso,val"
+ica:Intca_3322,K14260,alanine-synthesizing transaminase [EC:2.6.1.66 2.6.1.2] | (GenBank) aminotransferase class I,4th val
+ica:Intca_2131,K01649,2-isopropylmalate synthase [EC:2.3.3.13] | (GenBank) 2-isopropylmalate synthase,4th step Leucine
+ica:Intca_2347,K01649,2-isopropylmalate synthase [EC:2.3.3.13] | (GenBank) 2-isopropylmalate synthase,4th step Leucine
+ica:Intca_2330,K01704,3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35] | (GenB,5th step Leucine
+ica:Intca_2331,K01703,3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35] | (GenB,5th step Leucine
+ica:Intca_2356,K00052,3-isopropylmalate dehydrogenase [EC:1.1.1.85] | (GenBank) 3-isopropylmalate dehydrogenase,6th step Leucine
