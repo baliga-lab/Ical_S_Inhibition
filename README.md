@@ -1,4 +1,4 @@
-## This repository contains processed data and code needed to generate figures for the manuscript *Sulfur metabolites play key system-level roles in modulating denitrification*
+## This repository contains processed data and code needed to generate figures and tables for the manuscript *Sulfur metabolites play key system-level roles in modulating denitrification*
 * There are three sepereate Jupyter notebooks, each containing python code associated with specific analyses (growth curves, metabolomics, and transcriptomics)
 * All processed data tables can be found in the data folder
 * Raw untargeted metabolomics data can be found at https://xcmsonline.scripps.edu/, in the XCMS Public section
